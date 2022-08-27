@@ -1,0 +1,15 @@
+.block {
+  display: block;
+  width: 100%;
+  height: 150px;
+}
+
+.block__top {
+  margin-bottom: 20px;
+  background-color: red;
+}
+
+.block__bottom {
+  margin-top: 30px;
+  background-color: blue;
+}
